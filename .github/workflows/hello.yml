@@ -5,7 +5,7 @@ jobs:
  hello:
   runs-on: ubuntu-latest
   steps:
-   -name: "print greeting"
-    run: echo "Hello Thanuja, your pipeline works!"
+   - name: "print greeting"
+     run: echo "Hello Thanuja, your pipeline works!"
 
     
